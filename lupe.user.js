@@ -19,4 +19,4 @@
 
         window.location.assign(pageUrl.toString());
     }
-})();https://pbs.twimg.com/media/ELZthZiUUAEklVS?format=jpg&name=900x900
+})();
