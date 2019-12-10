@@ -2,7 +2,7 @@
 // @name         Lupe
 // @namespace    https://github.com/usagiga/lupe
 // @version      1.0
-// @description  Once open link of posted images on Twitter, then Lupe changes its url to original resolutions.
+// @description  Once open link of posted images on Twitter, then Lupe changes its url to original resolutions one.
 // @author       Usagigawara
 // @match        https://pbs.twimg.com/media/*
 // @grant        none
