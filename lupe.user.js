@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Lupe
 // @namespace    https://github.com/usagiga/lupe
-// @version      1.0
-// @description  Once open link of posted images on Twitter, then Lupe changes its url to original resolutions one.
+// @version      1.1
+// @description  Once open link of posted images on Twitter, then Lupe changes its url to original resolutions.
 // @author       Usagigawara
 // @match        https://pbs.twimg.com/media/*
 // @grant        none
@@ -17,6 +17,6 @@
     if(pageUrlParams.get("name") != "orig") {
         pageUrlParams.set("name", "orig");
 
-        window.location.assign(pageUrl.toString());
+        window.location.replace(pageUrl.toString());
     }
 })();
