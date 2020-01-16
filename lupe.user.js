@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Lupe
-// @namespace    https://github.com/usagiga/lupe
+// @namespace    https://github.com/usagiga/Lupe
 // @version      1.1
 // @description  Once open link of posted images on Twitter, then Lupe changes its url to original resolutions.
 // @author       Usagigawara
